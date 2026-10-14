@@ -1,4 +1,4 @@
-# Capital of History / Капитал истории *The Struggle for Cultural Heritage
+# Capital of History / Капитал истории *The Struggle for Cultural Heritage*
 
 ## 🧩 Упрощение модели карт
 Из 20+ спец-свойств оставим **5 ключевых** для MVP:
